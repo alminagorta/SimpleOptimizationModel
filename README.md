@@ -7,3 +7,5 @@ This study develops and applies a simple linear optimization program to identify
 
 More information: see  
 http://ascelibrary.org/doi/abs/10.1061/(ASCE)WR.1943-5452.0000224
+
+Also see Omar Alminagorta Thesis - Chapter 2
