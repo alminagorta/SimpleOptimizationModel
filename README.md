@@ -25,8 +25,8 @@ This repository presents 2 main folders:
 * [The Model]:This folder contains the optimization model programmed using the General Algebraic Modeling System ([GAMS]) software. Input data is embedded on the GAMS code.
 * [SupplementaryMaterial]: This folder contains the pending TMDL used to develop the model and a presentation about the model.
 
-[The Model]: https://github.com/alminagorta/Systems-model-in-Wetlands-to-Allocate-water-and-Manage-Plant-Spread/tree/master/1.SystemModel
-[SupplementaryMaterial]: https://github.com/alminagorta/Systems-model-in-Wetlands-to-Allocate-water-and-Manage-Plant-Spread/tree/master/4.SupplementaryDocumentation
+[The Model]: https://github.com/alminagorta/SimpleOptimizationModel/tree/master/The%20Model
+[SupplementaryMaterial]: https://github.com/alminagorta/SimpleOptimizationModel/tree/master/SupplementaryMaterial
 
 
 
